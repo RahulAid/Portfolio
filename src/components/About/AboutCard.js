@@ -6,7 +6,7 @@ function AboutCard() {
     {
       company: "Tunnatma Private Limited",
       location: "Gurgaon",
-      duration: "Feb 2023 - Aug 2024",
+      duration: "Feb 2023 - Oct 2024",
     },
     {
       company: "Javeo Travellers Private Limited",
