@@ -4,14 +4,14 @@ import Card from "react-bootstrap/Card";
 function AboutCard() {
   const experiences = [
     {
-      company: "Tunnatma Private Limited",
-      location: "Gurgaon",
-      duration: "Feb 2022 - Jan 2025",
+      company: "Javeo-Traveller Private Limited",
+      location: "Bengaluru",
+      duration: "Nov 2022 - Jan 2025",
     },
     {
-      company: "Javeo Travellers Private Limited",
-      location: "Bengaluru",
-      duration: "Aug 2021 - Feb 2022",
+      company: "Rialtes",
+      location: "Pune",
+      duration: "Apr 2021 - Aug 2022",
     },
   ];
 
