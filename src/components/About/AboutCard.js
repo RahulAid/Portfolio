@@ -24,7 +24,7 @@ function AboutCard() {
             from <span className="purple"> Jharkhand, India.</span>
             <br />
             I had been recently employed as a MERN Full Stack Developer at
-            Tunnatma Private Limited.
+            Javeo-Traveller Private Limited.
             <br />
             <br />
           </p>
